@@ -1,6 +1,4 @@
 # AutoCalib using Zhang's technique
-Use this comand to open the directory:
-`cd usankar_hw1/`
 
 To run AutoCalib:
 `python Wrapper.py`
